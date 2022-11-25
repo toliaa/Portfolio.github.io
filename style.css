@@ -1,0 +1,122 @@
+div#plates{
+    background-color: rgb(255, 242, 242);
+    
+    margin-top: 200px;
+    opacity: 1;
+    border-radius: 10px;
+    padding-left: 20px;
+    height: 300px;
+    align-items: center;
+   
+    
+   
+}
+div#plate{
+    background-color: rgb(241, 234, 234);
+    width: 200px;
+    padding: 20px;
+    
+    opacity: 50px;
+    font-family: 'Overpass', sans-serif;
+    border-radius: 10px;
+    margin-left: 30px;
+    display: inline-flex;
+    align-items: center;
+    
+  
+}
+div#plate:hover{
+    padding: 30px;
+    transition: 900ms;
+    filter: opacity(10px); 
+    color: rgb(226, 182, 182); 
+    border: 1px solid;  
+}
+a#plate:hover{
+    padding: 30px;
+    transition: 900ms;
+    filter: opacity(10px); 
+    color: rgb(226, 182, 182); 
+    border: 1px solid;  
+
+}
+body{
+    background-color: rgb(255, 242, 242);
+}
+div#plates:hover{
+    filter:opacity(10px);
+    
+}
+header{
+    
+}
+h1{
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 30px;
+    border: 1px dotted;
+
+    display: flex;
+    
+    
+}
+h2{
+    
+}
+h2#headerblock{
+    font-family: 'Kodchasan', sans-serif;
+    text-align: center;
+}
+img{
+    height: 100px;
+}
+div#about{
+   text-align: center;
+   font-family: 'Kodchasan', sans-serif;
+   background-color: rgb(255, 242, 242);
+   border: 1px solid;
+   box-shadow: 10px 10px 10px white;
+}
+footer{
+    font-family: 'Kodchasan', sans-serif;
+    background-color: rgb(255, 242, 242);
+}
+button#menu{
+   padding: 1px;
+   margin-left: 30px;
+   border: 0px;
+   font-family: 'Kodchasan', sans-serif;
+   
+    
+}
+div#menu{
+    text-align: center;
+    padding: 20px;
+   
+}
+button#menu:hover{
+    color: rgb(226, 182, 182); 
+    padding: 10px;
+    transition: 2000ms;
+}
+button#footer{
+  padding-left: 20px;
+}
+div#footer{
+    align-items: center;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+div#foot{
+    display: inline-flex;
+}
+h1:hover{
+    
+}
+span:hover{
+    background-color: rgb(255, 255, 255);
+    padding-right: 20px;
+    transition: 1000ms;
+}
