@@ -38,3 +38,18 @@ h1{
     padding: 10px;
     display: flex;
 }
+button{
+    border: 0px;
+    color: grey;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Varela Round', sans-serif;
+    
+}
+button:hover{
+    margin: 10px;
+    transition: 1000ms;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
