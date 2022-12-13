@@ -95,7 +95,7 @@ div#menu{
 }
 button#menu:hover{
     color: rgb(226, 182, 182); 
-    padding: 10px;
+    padding: 5px;
     transition: 2000ms;
 }
 button#footer{
@@ -110,7 +110,9 @@ a{
     color: black;
 }
 div#foot{
-    display: inline-flex;
+    padding-top: 30px;
+    text-align: ;
+     margin: 10px;
 }
 h1:hover{
     
@@ -119,4 +121,78 @@ span:hover{
     background-color: rgb(255, 255, 255);
     padding-right: 20px;
     transition: 1000ms;
+}
+div#cards{
+    background-color: rgb(255, 242, 242);
+    
+    margin-top: 200px;
+    opacity: 1;
+    border-radius: 10px;
+    padding-left: 50px;
+    height: 400px;
+    align-items: center;
+    display: flex;
+}
+div#card{
+    background-color: rgb(241, 234, 234);
+    width: 300px;
+    height: 400px;
+    padding-left: 20px ;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+button#card{
+    border: 0px;
+    color: grey;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Varela Round', sans-serif;
+}
+button#card:hover{
+    margin: 10px;
+    transition: 1000ms;
+}
+img{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+h2#card{
+    font-family: 'Kodchasan', sans-serif;
+    display: flex;
+}
+p#card{
+    font-family: 'Overpass', sans-serif;
+}
+p#abouti{
+   text-align: center;
+   font-family: 'Kodchasan', sans-serif;
+   background-color: rgb(255, 242, 242);
+   border: 1px solid;
+   box-shadow: 10px 10px 10px white;
+}
+div#Music{
+    padding-top: 100px;
+}
+
+h1#abouth{
+ box-shadow: 5px 7px 10px rgb(255, 255, 255);
+}
+
+  
+
+p#about{
+    font-family: 'Overpass', sans-serif;
+}  
+img#socialabout{
+    height: 20px;
+    width: 20px;
+}
+div#cardsgrave{
+    text-align: center;
+    align-items: center;
+    padding-left: 500px;
+    display: inline;
+}
+h1#headertitle{
+    
 }
