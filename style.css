@@ -196,3 +196,33 @@ div#cardsgrave{
 h1#headertitle{
     
 }
+h2#inprocess{
+font-family: monospace;
+text-align: center;
+font-weight: 100;
+margin-top: 10px;
+}
+div#cardsabouthtml{
+    margin-left: 20px;
+    
+}
+ul#infoprod{
+   text-align: left;
+   padding-right: 30px;
+   border: 1px dashed;
+}
+li{
+    list-style: none;
+    padding-top: 20px;
+    font-family: 'Bad Script', cursive;
+    border: 1px dashed;
+}
+span#clock:hover{
+    padding: 10px;
+    background-color:rgb(255, 242, 242);
+
+    
+}
+div#proc{
+   
+}
