@@ -83,7 +83,7 @@ footer{
 button#menu{
    padding: 1px;
    margin-left: 30px;
-   border: 0px;
+   border: 1px dashed;
    font-family: 'Kodchasan', sans-serif;
    
     
@@ -96,7 +96,7 @@ div#menu{
 button#menu:hover{
     color: rgb(226, 182, 182); 
     padding: 5px;
-    transition: 2000ms;
+    transition: 200ms;
 }
 button#footer{
   padding-left: 20px;
