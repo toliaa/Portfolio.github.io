@@ -79,6 +79,7 @@ div#about{
 footer{
     font-family: 'Kodchasan', sans-serif;
     background-color: rgb(255, 242, 242);
+    margin-top: 440px;
 }
 button#menu{
    padding: 1px;
@@ -213,7 +214,7 @@ font-weight: 100;
 margin-top: 10px;
 }
 div#cardsabouthtml{
-    margin-left: 20px;
+  
     display: flexbox;
     
 }
@@ -242,5 +243,21 @@ div#proc{
 img#musicimages{
     display: flex;
     flex-wrap: wrap;
+    
+}
+p#sociallls{
+    margin-left:50px;
+    display: inline-flex;
+    margin-bottom: 50px;
+    background-color: rgb(241, 234, 234);
+    border-radius: 7px;
+    font-family: 'Inconsolata', monospace;
+    
+
+
+}
+p#sociallls:hover{
+    padding: 4px;
+    transition: 200ms;
     
 }
